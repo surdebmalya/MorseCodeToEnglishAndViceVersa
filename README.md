@@ -7,6 +7,6 @@ In that binary tree if we move left, then we consider it as a .(dot) and if we m
 
 Here, we made the converter in Python3!!!
 For more details visit:
-https://dsasanengineer.blogspot.com/
+https://dsasanengineer.blogspot.com/2020/02/morse-code-convertor-by-python3.html
 Also see the video for clear your doubts:
-youtube.com
+https://youtu.be/ogoV7DFq0hA
