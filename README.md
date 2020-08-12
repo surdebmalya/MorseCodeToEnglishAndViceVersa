@@ -6,7 +6,8 @@ In that binary tree if we move left, then we consider it as a .(dot) and if we m
 [Where .(dot) takes a single bit and _(dash) takes 3 bits]
 
 Here, we made the converter in Python3!!!
-For more details visit:
-https://dsasanengineer.blogspot.com/2020/02/morse-code-convertor-by-python3.html
-Also see the video for clear your doubts:
-https://youtu.be/ogoV7DFq0hA
+## For more details visit:
+[Click Here](https://dsasanengineer.blogspot.com/2020/02/morse-code-convertor-by-python3.html) to view the related blog of this project!
+## Also see the video for clear your doubts:
+[![Watch the video](http://i3.ytimg.com/vi/ogoV7DFq0hA/maxresdefault.jpg)](https://youtu.be/ogoV7DFq0hA)
+
